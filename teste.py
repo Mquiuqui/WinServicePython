@@ -1,6 +1,3 @@
-import keyboard
+import os
 
-while True:
-    if keyboard.is_pressed('a'):
-        print("teste")
-        break
+os.startfile("C:/Users/maria/Desktop/LG/Native-Graphql/GitHub/WinServicePython/index.html", "print")
